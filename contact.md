@@ -4,12 +4,16 @@ _Développeur web junior, en formation "Développement Web et Accessibilité"_
 
 [Accueil](https://github.com/Jacky-Chg/S01E11-Atelier-Recap-Exo/blob/main/README.md) - [Projets](https://github.com/Jacky-Chg/S01E11-Atelier-Recap-Exo/blob/main/projets.md) - [CV](https://github.com/Jacky-Chg/S01E11-Atelier-Recap-Exo/blob/main/CV.md) - [Contact](https://github.com/Jacky-Chg/S01E11-Atelier-Recap-Exo/blob/main/contact.md)
 
-## Mes projets
+## Contact
+N'hésitez pas une seconde, contactez-moi !
 
-|Client|Dates|Technologies|Lien|
-|:-----|:----:|:-----------:|:---|
-Microsoft |2022|HTML,SASS,JavaScript|[Microscoft]()
-Google|2021|Node.js|[Google]()
-Mme Michu|2017|HTML, CSS |[Mme Michu]()
+ 📧 mon.mail@example.com
+
+ 📞 06.12.34.56.78
+
+👔 [Linkedin](https://fr.linkedin.com/)
+
+🐦[Twitter](https://twitter.com/?lang=fr)
+
 
 >© 2022 - Jacky Cheng - [Me contacter](https://github.com/Jacky-Chg/S01E11-Atelier-Recap-Exo/blob/main/contact.md)
