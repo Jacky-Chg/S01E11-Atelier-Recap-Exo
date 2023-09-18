@@ -2,7 +2,7 @@
 # Jacky Cheng
 _Développeur web junior, en formation "Développement Web et Accessibilité"_
 
-[Accueil](https://github.com/Jacky-Chg/S01E11-Atelier-Recap-Exo/blob/main/README.md) - [Projets](https://github.com/Jacky-Chg/S01E11-Atelier-Recap-Exo/blob/main/projets.md) - [CV](https://github.com/Jacky-Chg/S01E11-Atelier-Recap-Exo/blob/main/CV.md) - [Contact](https://github.com/Jacky-Chg/S01E11-Atelier-Recap-Exo/blob/main/contact.md)
+[Accueil](README.md) - [Projets](projets.md) - [CV](CV.md) - [Contact](contact.md)
 
 ## Contact
 N'hésitez pas une seconde, contactez-moi !
@@ -15,5 +15,6 @@ N'hésitez pas une seconde, contactez-moi !
 
 🐦[Twitter](https://twitter.com/?lang=fr)
 
+---
 
->© 2022 - Jacky Cheng - [Me contacter](https://github.com/Jacky-Chg/S01E11-Atelier-Recap-Exo/blob/main/contact.md)
+>© 2022 - Jacky Cheng - [Me contacter](contact.md)
